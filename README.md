@@ -17,3 +17,4 @@ Links
 - [solar houses on Google](https://www.google.com/search?q=sonnenhaus&biw=1262&bih=605&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjyoP-M0NPLAhUY4GMKHdIsD-QQ_AUICCgC)
 
 In this repo there are other files with sketches and individual studies of different parts of the house.
+The sketches are created in free version of [SketchUp](http://www.sketchup.com/), a 3D modelling sw. 
