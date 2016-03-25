@@ -1,7 +1,9 @@
 # Solar architecture
-This repo contains links a files with information about the next generation of passive houses, so called solar houses. The most progressive country which leads in this effort is Germany. That's why most of the links will be pointing to the German websites.
+This repo contains links a files with information about the next generation of passive houses, so called solar houses. The most progressive country which leads in this effort is Germany. That's why most of the links in thir repo will point to various German websites.
 
-The solar houses are passive houses to begin with. On top of the passive standard there are features which maximize the use of solar energy for heating. The dominant feature of the solar houses is asymetrical roof. The south part of the roof and sometimes walls are covered with photovoltaic and photothermal solar panels. The south roof is typically at the 60 deg elevation to maximize the efficiency of the solar panels in the time of the year when the sun is low under the horizon - fall thru spring. The north part of the roof is typically flat or with minor elevation.
+The solar houses are passive houses to begin with. On top of the passive standard there are features which maximize the use of solar energy for heating. The dominant feature of the solar houses is asymetrical roof. One part of the roof is optimized to directly face the sun (for the northern hemisphere this is the south roof). That part of the roof and sometimes walls are covered with photovoltaic and photothermal solar panels. In the areas around 50 deg of latitude, the roof is typically at the 60 deg elevation to maximize the efficiency of the solar panels in the time of the year when the sun is low under the horizon - fall thru spring. The oposite part of the roof is typically flat or with minor elevation.
+
+From now on I will be assuming and presenting solar houses and design principles for the places around 50 deg of latitude.
 
 A typical solar house can be found here: [ENERGETIKhaus100 country](http://www.fasa-ag.de/cms/upload/images_header/e100/e100_country.jpg)
 
